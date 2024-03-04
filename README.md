@@ -1,7 +1,7 @@
 # 介绍
 
 最好用的 Xray 一键安装脚本 & 管理脚本
-
+bash <(wget -qO- -o- https://github.com/233boy/Xray/raw/main/install.sh)
 # 特点
 
 - 快速安装
